@@ -1,5 +1,6 @@
 <?php
     $title = 'Reloaded-Attend';
+    $titleII = 'active';
     include_once 'includes/header.php';
     require_once 'db/conn.php';
     echo '<b><center>' .$title. '</b></center>';
